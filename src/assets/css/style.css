@@ -1,0 +1,40 @@
+:root{
+    --main-color: #f9f9f9;
+    --primary-color: #0b2c72;
+    --secondary-color: #43C6AC;
+}
+
+body{
+    overflow: auto;
+}
+
+/* primary text */
+.p-t{
+    color: var(--primary-color) !important;
+}
+
+/* primary background */
+.p-b{
+    background-color: var(--primary-color) !important 
+}
+
+/* secondary text */
+.s-t{
+    color: var(--secondary-color) !important;
+}
+
+/* primary background */
+.s-b{
+    background-color: var(--secondary-color) !important 
+}
+
+/* main text */
+.m-t{
+    color: var(--main-color) !important;
+}
+
+/* main background */
+.m-b{
+    background-color: var(--main-color) !important 
+}
+

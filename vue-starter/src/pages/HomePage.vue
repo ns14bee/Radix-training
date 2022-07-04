@@ -1,13 +1,14 @@
 <template>
-    <div>Home</div>
+	<img class="img-size" src="images/vue_image.jpeg" />
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
+<style scoped>
+.img-size {
+	height: 90vh;
+	width: 100vw;
+}
 </style>
